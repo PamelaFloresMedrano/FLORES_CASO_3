@@ -1,0 +1,4 @@
+///nombre del preset que va a traducir babel
+{
+    "presets": ["@babel/preset-env"]
+}
